@@ -61,4 +61,6 @@ steps <- c(3000, "Stayed in Bed Today", "2400", 50, 7000, "Didn't Walk Lah!")
 
 
 
+## rep()
+
 
