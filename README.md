@@ -7,7 +7,7 @@ Syllabus:
 - Session 3: Dataframes - Just a Neat Stack of Vectors
 - Session 4: Functions - The Art of Abstraction
 - Session 5: Working with Real Data (Finally!) - The Best Way to Learn is to Do 
-- Session 6 (tentative): Tidyverse and GGplot - The Core Packages (in R) for Data Analysts
+- Session 6: Tidyverse and GGplot - The Core Packages (in R) for Data Analysts
 
 Other related materials:
 - [For Loops and If Else Statements](https://msrcodelibrary.netlify.app/2020/06/13/for-loops-and-if-else-statements/)
