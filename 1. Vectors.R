@@ -23,7 +23,7 @@
 
 
 
-## Vector Class Coercion
+## Object Class and Class Coercion
 
 multiples_of_three <- c("three", "6", "9", "12")
 
@@ -49,7 +49,7 @@ steps <- c(3000, "Stayed in Bed Today", "2400", 50, 7000, "Didn't Walk Lah!")
 
 
 
-## Using Logical Statements
+## Using Logical Statements for subsetting Vectors
 
 
 
@@ -64,3 +64,5 @@ steps <- c(3000, "Stayed in Bed Today", "2400", 50, 7000, "Didn't Walk Lah!")
 ## rep()
 
 
+
+#---GO TO EXERCISE---#

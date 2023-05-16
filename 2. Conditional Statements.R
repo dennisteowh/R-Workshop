@@ -21,6 +21,6 @@ p <- -1
 ## b) You can take a fish home if it is at least 183 cm in length
 
 ## Write a conditional statement to capture the rules of these guidelines. 
-## Given a fish (and knowing whether it's endangered or not as well as its length), 
+## Given a fish (and knowing whether it's endangered or not, as well as its length), 
 ## Output a decision of whether the fish should be "Return to Sea" or "Put in my Belly"
 

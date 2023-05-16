@@ -1,4 +1,9 @@
-# Exercise
+# Exercise: Use R to get the answers to the questions below (Don't just type the answer...)
+#           You are encouraged to use loops as far as possible to solve each question
+#           That said, you are also encouraged to think of other ways to solve each question (without loops)
+#           This will help you to see how there are often loops "hidden" behind the other functions we use
+
+# Rules: You can only use functions that are within the "Allowable Functions List.pdf"
 
 ## 1) Create a vector, called "fibo", assigning it with the values, c(0,1). If you add these 2 numbers and extend the vector, we
 ##    get c(0,1,1). This process of adding the last 2 numbers of the vector and extending it can be repeated indefinitely (next in the sequence would be c(0,1,1,2) ).

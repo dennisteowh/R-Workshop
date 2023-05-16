@@ -1,7 +1,9 @@
 
-# Exercise: Use R to get the answers to the questions below (Don't just eyeball it and type the answer!)
-#           You are encouraged to try different methods to get the same (hopefully) answer
-#           By the end, you should see why some methods are superior to others
+# Exercise: Use R to get the answers to the questions below (Don't just type the answer...)
+#           You are encouraged to try different methods to get the (hopefully same) answer
+#           By the end, you should be able to see why some methods are superior to others
+
+# Rules: You can only use functions that are within the "Allowable Functions List.pdf"
 
 animals <- c("Mufasa", "Simba", "Timon", "Pumbaa", "Nala")
 weight <- c(40, 20, 3, 1000, 19)
