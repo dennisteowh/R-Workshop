@@ -1,0 +1,102 @@
+---
+title: "R programming basics" 
+title-slide-attributes:
+    data-background-image: "pictures/R_logo.svg.png"
+    data-background-size: "300px"
+    data-background-opacity: "1"
+    data-background-position: "left"
+format: 
+  revealjs:
+    theme: dark
+editor: visual
+---
+
+# What is R? 
+
+## Why learn R programming?
+
+::: incremental
+-   Why do programmers make sooo much money?!
+
+-   Automating our work saves us time in the long run!
+
+-   Good Code = Good Documentation
+:::
+
+## Syllabus
+
+-   Session 1: Vectors
+
+-   Session 2: Conditional Statements and Loops
+
+-   Session 3: Dataframes
+
+-   Session 4: Functions
+
+-   Session 5: Working with Real Data (Finally!)
+
+-   Session 6 (tentative): Tidyverse and GGplot
+
+# Some Expectations...
+
+## Why is this class SOOO HARD???
+
+## Why is this class SOOO HARD???
+
+<br> <font size="+5"> Components of Programming: </font>
+
+::: incremental
+-   Syntax
+
+-   Concept
+
+-   **Problem-solving**
+:::
+
+## Why is this class SOOO HARD???
+
+<br> <font size="+5"> Components of Programming: </font>
+
+-   Syntax (sessions 1, 6)
+
+-   Concept
+
+-   **Problem-solving**
+
+## Why is this class SOOO HARD???
+
+<br> <font size="+5"> Components of Programming: </font>
+
+-   Syntax (sessions 1, 6)
+
+-   Concept (sessions 2, 4)
+
+-   **Problem-solving**
+
+## Why is this class SOOO HARD???
+
+<br> <font size="+5"> Components of Programming: </font>
+
+-   Syntax (sessions 1, 6)
+
+-   Concept (sessions 2, 4)
+
+-   **Problem-solving** (sessions 1, 2, 3, 4, 5)
+
+## Where is the Data...
+
+## Where is the Data...
+
+<center>![](pictures/jacket_1.jpg){width="55%"}</center>
+
+## Other Questions?
+
+# Three Promises
+
+# Thou Shalt Not Google
+
+# Thou Shalt Not Use Helper Functions <br><small>(unless Dennis allows it)</small>
+
+# Thou Shalt Become a Programmer
+
+# Vectors: One Structure to Learn them All {background-image="pictures/One_Ring_Blender_Render.png" background-size="500px" background-opacity=".2"}
