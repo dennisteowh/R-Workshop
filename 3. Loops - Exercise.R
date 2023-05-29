@@ -1,6 +1,6 @@
 # Exercise: Use R to get the answers to the questions below (Don't just type the answer...)
 #           You are encouraged to use loops as far as possible to solve each question
-#           That said, you are also encouraged to think of other ways to solve each question (without loops)
+#           That said, it is also good to think of other ways to solve each question (without loops)
 #           This will help you to see how there are often loops "hidden" behind the other functions we use
 
 # Rules: You can only use functions that are within the "Allowable Functions List.pdf"
@@ -22,13 +22,50 @@
 
 
 
-## 4) Compute the square of fibo, and call the resulting vector "fibo_square".
+## 4) Compute the sum of the even numbers in fibo.
+##    hint: use the %% operator; this computes the remainder after a division
+##    e.g., 5%%2 = 1 since you have a remainder of 1 after dividing 5 by 2
 
 
 
-## 5) For each number in fibo, check if it can be reproduced by summing 2 sequential numbers (can be any 2 sequential numbers) in fibo_square
-##    (e.g., 5, which is the 6th fibo number can be reproduced by summing 1 and 4 from fibo_square)
+## 5) Compute the sum of the odd numbers in fibo. 
+##    hint: use the %% operator; this computes the remainder after a division
+##    e.g., 5%%2 = 1 since you have a remainder of 1 after dividing 5 by 2
 
+
+
+## 6) Create a vector, called "fibo_reversed", which contains the values of fibo in reverse order. 
+
+
+
+## 7) Compute the square of fibo, and call the resulting vector "fibo_square".
+
+
+
+## 8) For each number in fibo, check if it can be reproduced by summing 2 sequential numbers (can be any 2 sequential numbers) in fibo_square
+##    (e.g., 5, which is the 6th fibo number can be reproduced by summing 1 and 4 from fibo_square).
+
+
+
+# Bonus Challenge! - Coding the Likert Scale
+
+## Below, we have the survey responses of 3 participants. 
+## We want to analyze their data but unfortunately, R cannot perform computations on character vectors
+## Convert each of the subjects' responses to numbers based on the following coding frame:
+## Strongly Agree - 5
+## Agree - 4 
+## Neutral - 3
+## Disagree - 2
+## Strongly Disagree - 1
+## NA - NA
+
+## There are many ways to solve this problem but!
+## A good programmer would be able to reuse the same code to convert all 3 sets of responses
+## (Imagine if you had 100 participants, it would be tedious to solve each case individually...)
+
+subject1 <- c("Agree", "Strongly Agree", "Disagree", "Disagree", "Agree")
+subject2 <- c("Strongly Disagree", "Strongly Agree", "Strongly Agree", "Strongly Agree", "Neutral")
+subject3 <- c("Neutral", "Neutral", "Neutral", "Neutral", NA)
 
 
 # Bonus Challenge! - The Scammer's Jicksaw Puzzle

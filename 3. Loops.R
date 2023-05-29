@@ -15,7 +15,7 @@
 
 
 
-# Loops + Conditional Statements (colored sheep example)
+# Loops + Conditional Statements (back to sheep example)
 
 set.seed(100)
 
@@ -37,8 +37,11 @@ fish_species <- sample(c("Endangered", "Not Endangered"), 100, replace = T)
 fish_length <- sample(100:300, 100, replace = T)
 
 
-# rep() for initialization
+# rep() for initialization (simple numbers example)
 
+set.seed(100)
+
+random_numbers <- sample(1:50, 20, replace = F)
 
 # Break and Next
 
