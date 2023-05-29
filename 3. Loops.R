@@ -49,4 +49,7 @@ random_numbers <- sample(1:50, 20, replace = F)
 # nested loops (we will see this more when covering Dataframes)
 
 
+# While loops (if have time)
+
+
 #---GO TO EXERCISE---#
