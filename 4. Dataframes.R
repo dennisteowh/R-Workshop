@@ -26,7 +26,7 @@ avengers <- data.frame(
 ## different way of subsetting dataframes $
 
 
-## what we learned from vectors
+## logical subsetting 
 
 
 ## assigning and coercing in dataframes
@@ -52,8 +52,7 @@ introversion_data <- data.frame(id = 1:10,
                                 introversion3 = sample( 1:5, 10, replace = TRUE),
                                 introversion4 = sample( 1:5, 10, replace = TRUE),
                                 introversion5 = sample( 1:5, 10, replace = TRUE),
-                                attention = sample(c(T, F), 10, replace = T)
-                                , stringsAsFactors = FALSE)
+                                attention = sample(c(T, F), 10, replace = T))
 
 ## composite sum example
 
@@ -61,7 +60,10 @@ introversion_data <- data.frame(id = 1:10,
 ## composite sum conditioned on attention check example
 
 
-## Doing the same thing in vector form
+## Doing the same thing in vector form 
+
+
+## Initializing an empty dataframe
 
 
 #---GO TO EXERCISE---#
