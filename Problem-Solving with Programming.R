@@ -89,6 +89,10 @@ pokemon_data <- data.frame(
   speed =  c(65, 43, 45, 90, 55, 999)
 )
 
+## 2) Create a new dataset called "pokemon_ordered_data" that orders the rows in the order of the pokedex entry
+
+## 3) Which pokemon has the second highest speed?
+
 ## 9) Create a new variable in the dataset called "highest_stat". It should record the highest stat of each pokemon
 ##    (e.g., attack, defense). If there is a tie, pick the first one (in alphabetical order; alternatively you can
 ##    challenge yourself to include all the highest stats which frankly makes more sense).
